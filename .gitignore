@@ -1,2 +1,14 @@
+# Byte-compiled / optimized / DLL files
 __pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
 .venv/
+venv/
+ENV/
+env/
+
+# ZAP export or other output artifacts
+output.txt
+
