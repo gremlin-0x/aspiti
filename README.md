@@ -1,6 +1,7 @@
 # aspiti
 
-![header]("img/header.png Header")
+![ASPITI header](img/header.png)
+
 
 `aspiti` is a lightweight command-line interface that automates the loading and usage of security tools, with first-class support for the ZAP Proxy API. It is designed as a wrapper to organize, invoke, and interact with security testing scripts—such as the GraphQL-focused [`gql_viper`](https://github.com/gremlin-0x/gql_viper).
 
