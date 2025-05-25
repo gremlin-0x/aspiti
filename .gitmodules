@@ -1,0 +1,3 @@
+[submodule "scripts/gql_viper"]
+	path = scripts/gql_viper
+	url = https://github.com/gremlin-0x/gql_viper
